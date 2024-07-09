@@ -40,7 +40,7 @@ LiterAlura es una aplicación de consola que interactúa con la API Gutendex par
 1. **Clonar el Repositorio**
 
    ```bash
-   git clone https://github.com/tu-usuario/LiterAlura.git
+   git clone https://github.com/carenrq/Practicando-Spring-Boot-Challenge-Literalura.git
    cd LiterAlura
 
 
